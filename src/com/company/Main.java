@@ -18,6 +18,7 @@ public class Main {
         System.out.println("enter last name");
         String s2=S.nextLine();
         System.out.println("hello,"+ao.sum(s1,s2) + "or should i say,"+ao.sum(s2,s1));
+        System.out.println("---------------------------");
 
     }
 }
