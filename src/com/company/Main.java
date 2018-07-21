@@ -11,6 +11,13 @@ class Add
 public class Main {
     public static void main(String[]args)
     {
+        /*Write a java program to input your first name and last name, then say "hello"
+          two ways, like this:
+
+          Enter your first name: Harsha
+          Enter your last name: Challa
+          Hello, Harsha Challa!
+          Or should I say: Challa, Harsha!*/
         Scanner S= new Scanner(System.in);
         Add ao=new Add();
         System.out.println("enter first name");
